@@ -11,15 +11,44 @@ Hello, I'm **Kerem Gavcar**, a passionate 3D artist and game developer with a st
 
 ---
 
-## 🚀 Highlighted Projects
-### 🎨 3D Airplane Animation Scene
-A detailed airplane model with textured environments, animated spitfire plane, and a complete immersive scene featuring houses, barrels, and crates.
+# 🚀 Highlighted Projects
 
-### 🦖 Low-Poly T-Rex Scene
-A vibrant low-poly interpretation of prehistoric life, showcasing minimalism and artistic creativity.
+## 🟣 Blender
+- **TV-Head Character with Run Cycle Animation**  
+  A stylized TV-head character featuring a retro-inspired design with a smooth run cycle animation. The vibrant colors and animation make it ideal for cinematic projects or games.  
 
-### 🏠 3D Brick House & Barrel Set
-Realistic urban-style houses with textured barrels and crates, designed for games and simulations.
+https://github.com/user-attachments/assets/2ba95010-9d44-46fc-9401-30ab51e10f84
+
+- **3D Airplane Animation Scene**  
+  A detailed airplane model with textured environments and an animated spinning propeller. The scene includes houses, barrels, and crates, set against a realistic HDRI background.
+
+https://github.com/user-attachments/assets/0620d236-2138-467d-94e4-041f0f9f97ab
+
+- **Low-Poly T-Rex Scene**  
+  A vibrant low-poly interpretation of prehistoric life, showcasing artistic minimalism. Perfect for animations, games, or creative visualizations.  
+
+![T-Rex](https://github.com/user-attachments/assets/da9bff5d-88ca-4ff5-9cba-ccc3c8ce3721)
+
+---
+
+## 🟢 Unreal Engine
+- **Lilith RPG Project**  
+  An immersive RPG game designed in Unreal Engine 5. The project features advanced AI, stunning visuals, and mechanics such as combat, health management, and level transitions.  
+
+![image](https://github.com/user-attachments/assets/8101c95b-0772-4e27-8d05-268f2ff42d44)
+
+- **Memory Reboot 3D Puzzle Game**  
+  A story-driven atmospheric puzzle game with a focus on level design and narrative. Designed for a capstone project using Unreal Engine.  
+
+![image](https://github.com/user-attachments/assets/773d04c2-528d-4328-bea5-74b520bc51d0)
+
+---
+
+## 🔵 Unity
+- **2D Snowboard Game**  
+  A fast-paced 2D snowboarding game featuring dynamic gameplay mechanics such as torque-based controls and challenging levels. Perfect for mobile and indie gaming projects.  
+
+https://github.com/user-attachments/assets/b0b42724-5dad-4f47-be6a-ace05d88f7cb
 
 ---
 
