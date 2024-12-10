@@ -39,7 +39,7 @@ https://github.com/user-attachments/assets/0620d236-2138-467d-94e4-041f0f9f97ab
 
 [🎥 Watch Gameplay Video](https://youtu.be/FgiQLnGe0vU)
 
-- **Memory Reboot 3D Puzzle Game**  
+- **Memory Reboot 3D Horror Game Level Design**  
   A story-driven atmospheric horror game with a focus on level design and narrative. Designed for a capstone project using Unreal Engine.  
 
 https://github.com/user-attachments/assets/c2b08707-2d16-4515-91fb-0ab6d1322fbf
