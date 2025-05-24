@@ -34,6 +34,13 @@ Jump across timed moving platforms and avoid sliding cubes trying to knock you o
 
 https://github.com/user-attachments/assets/69177721-91c6-4f4f-88c2-0deaf39ac87f
 
+## Warehouse Wreckage - Created With Blueprint System
+
+A simple gameplay scenario built entirely with Blueprints in Unreal Engine 5.  
+Players shoot projectiles to destroy barrels and ammo crates, with physics-based interactions and collision detection.  
+The level resets automatically 5 seconds after all objectives are completed.
+
+https://github.com/user-attachments/assets/5dff5e33-6293-4a5e-afdd-4af2256bd1c0
 ---
 
 ## 🟣 Blender
