@@ -7,7 +7,7 @@ Hello, I'm **Kerem Gavcar**, a passionate 3D artist and game developer with a st
 ## 🛠 Skills & Expertise
 - **Game Development**: Expertise in **Unity** and **Unreal Engine**, creating interactive and engaging experiences.
 - **3D Modeling & Animation**: Proficient in **Blender**, producing low-poly to realistic models and animations.
-- **Programming**: Experienced in **C#**, **Blueprints**, ensuring seamless integration of art and functionality.
+- **Programming**: Experienced in **C++**, **Blueprints**, **C#** ensuring seamless integration of art and functionality.
 
 ---
 
