@@ -28,22 +28,11 @@ https://github.com/user-attachments/assets/c2b08707-2d16-4515-91fb-0ab6d1322fbf
 
 ### 🔨 Obstacle Assault – CPP (Work in Progress)
 
-A third-person platformer built entirely with **C++ in Unreal Engine** — my first project focused on native code.
+A third-person platformer built entirely in C++ with Unreal Engine, my first native code project.
 
-> Climb your way up a floating island by jumping across timed moving platforms. Each jump requires precise timing, as the platforms constantly rise and fall. Once you reach the top, the real challenge begins: avoid sliding cube blocks moving from both sides that try to knock you off the island.
-
-This project is helping me solidify my understanding of **C++ within Unreal Engine**, especially around:
-- object movement
-- tick-based logic
-- collision handling
-- actor hierarchy
+Jump across timed moving platforms and avoid sliding cubes trying to knock you off at the top, mastering core C++ gameplay mechanics.
 
 https://github.com/user-attachments/assets/69177721-91c6-4f4f-88c2-0deaf39ac87f
-
-
-
-
-
 
 ---
 
