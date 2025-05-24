@@ -40,7 +40,7 @@ A simple gameplay scenario built entirely with Blueprints in Unreal Engine 5.
 Players shoot projectiles to destroy barrels and ammo crates, with physics-based interactions and collision detection.  
 The level resets automatically 5 seconds after all objectives are completed.
 
-https://github.com/user-attachments/assets/5dff5e33-6293-4a5e-afdd-4af2256bd1c0
+https://github.com/user-attachments/assets/f2bcb8c4-fa17-4a91-8e10-b123167ba045
 ---
 
 ## 🟣 Blender
