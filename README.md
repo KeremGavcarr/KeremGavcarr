@@ -42,6 +42,9 @@ The level resets automatically 5 seconds after all objectives are completed.
 
 https://github.com/user-attachments/assets/4a9cbb55-a9e7-417d-8cde-b7902e4324ea
 
+### The Stairs - Unreal Engine Horror Game Cinematic & Level Design
+
+https://github.com/user-attachments/assets/b2423d9c-30ff-4713-ae01-f8b81a2cbe63
 
 ## 🟣 Blender
 - **TV-Head Character with Run Cycle Animation**  
