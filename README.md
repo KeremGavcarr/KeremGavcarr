@@ -38,7 +38,8 @@ This project is helping me solidify my understanding of **C++ within Unreal Engi
 - collision handling
 - actor hierarchy
 
-🎥 [https://github.com/user-attachments/assets/a4ca44be-f422-4697-997c-c4a7e932fe08](https://github.com/user-attachments/assets/d6f9473c-595a-4715-b038-55d54c9248fc)
+🎥 <video src="https://github.com/KeremGavcarr/ObstacleAssault-UE5-Cpp/raw/refs/heads/main/ObstacleAssaultGameplay.mp4" controls width="100%"></video>
+
 
 
 
