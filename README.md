@@ -26,6 +26,24 @@ Hello, I'm **Kerem Gavcar**, a passionate 3D artist and game developer with a st
 
 https://github.com/user-attachments/assets/c2b08707-2d16-4515-91fb-0ab6d1322fbf
 
+### 🔨 Obstacle Assault – CPP (Work in Progress)
+
+A third-person platformer built entirely with **C++ in Unreal Engine** — my first project focused on native code.
+
+> Climb your way up a floating island by jumping across timed moving platforms. Each jump requires precise timing, as the platforms constantly rise and fall. Once you reach the top, the real challenge begins: avoid sliding cube blocks moving from both sides that try to knock you off the island.
+
+This project is helping me solidify my understanding of **C++ within Unreal Engine**, especially around:
+- object movement
+- tick-based logic
+- collision handling
+- actor hierarchy
+
+🎥 https://github.com/user-attachments/assets/a4ca44be-f422-4697-997c-c4a7e932fe08
+
+
+
+
+
 ---
 
 ## 🟣 Blender
