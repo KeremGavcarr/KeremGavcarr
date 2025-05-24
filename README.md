@@ -13,6 +13,21 @@ Hello, I'm **Kerem Gavcar**, a passionate 3D artist and game developer with a st
 
 # 🚀 Highlighted Projects
 
+## 🟢 Unreal Engine
+- **Lilith RPG Project**  
+  An immersive RPG game designed in Unreal Engine 5. The project features advanced AI, stunning visuals, and mechanics such as combat, health management, and level transitions.  
+
+![image](https://github.com/user-attachments/assets/ef766c3a-ebe1-42fb-839d-f2f2a525ab5f)
+
+[🎥 Watch Gameplay Video](https://youtu.be/FgiQLnGe0vU)
+
+- **Memory Reboot 3D Horror Game Level Design**  
+  A story-driven atmospheric horror game with a focus on level design and narrative. Designed for a capstone project using Unreal Engine.  
+
+https://github.com/user-attachments/assets/c2b08707-2d16-4515-91fb-0ab6d1322fbf
+
+---
+
 ## 🟣 Blender
 - **TV-Head Character with Run Cycle Animation**  
   A stylized TV-head character featuring a retro-inspired design with a smooth walk cycle animation. The vibrant colors and animation make it ideal for games or cinematic projects.  
@@ -28,21 +43,6 @@ https://github.com/user-attachments/assets/0620d236-2138-467d-94e4-041f0f9f97ab
   A vibrant low-poly interpretation of prehistoric life, showcasing artistic minimalism. Perfect for animations, games, or creative visualizations.  
 
 ![T-Rex](https://github.com/user-attachments/assets/da9bff5d-88ca-4ff5-9cba-ccc3c8ce3721)
-
----
-
-## 🟢 Unreal Engine
-- **Lilith RPG Project**  
-  An immersive RPG game designed in Unreal Engine 5. The project features advanced AI, stunning visuals, and mechanics such as combat, health management, and level transitions.  
-
-![image](https://github.com/user-attachments/assets/ef766c3a-ebe1-42fb-839d-f2f2a525ab5f)
-
-[🎥 Watch Gameplay Video](https://youtu.be/FgiQLnGe0vU)
-
-- **Memory Reboot 3D Horror Game Level Design**  
-  A story-driven atmospheric horror game with a focus on level design and narrative. Designed for a capstone project using Unreal Engine.  
-
-https://github.com/user-attachments/assets/c2b08707-2d16-4515-91fb-0ab6d1322fbf
 
 ---
 
