@@ -38,7 +38,7 @@ This project is helping me solidify my understanding of **C++ within Unreal Engi
 - collision handling
 - actor hierarchy
 
-https://github.com/user-attachments/assets/b6ab85f9-623b-4c98-9692-878bccce4d41
+https://github.com/user-attachments/assets/69177721-91c6-4f4f-88c2-0deaf39ac87f
 
 
 
