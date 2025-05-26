@@ -1,6 +1,6 @@
 # 👋 Welcome to My Profile!
 
-Hello, I'm **Kerem Gavcar**, a passionate 3D artist and game developer with a strong foundation in **Unreal Engine**, **Unity**, and **Blender**. My work is driven by a deep enthusiasm for creating immersive environments, realistic animations, and visually stunning models for games, simulations, and cinematic experiences.
+Hello, I'm **Kerem Gavcar**, a passionate Game Developer and 3D Artist with a strong foundation in **Unreal Engine**, **Unity**, **Blender** and **Maya**. My work is driven by a deep enthusiasm for creating immersive environments, realistic animations, and visually stunning models for games, simulations, and cinematic experiences.
 
 ---
 
