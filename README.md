@@ -62,6 +62,12 @@ https://github.com/user-attachments/assets/0620d236-2138-467d-94e4-041f0f9f97ab
 
 ![T-Rex](https://github.com/user-attachments/assets/da9bff5d-88ca-4ff5-9cba-ccc3c8ce3721)
 
+- **Legendary-Sword-3D Model**  
+
+  A stylized fantasy sword modeled and textured in Blender.
+
+![sword](https://github.com/user-attachments/assets/3bd22684-4939-4638-ad2d-da5e596b62ac)
+
 ---
 
 ## 🔵 Unity
