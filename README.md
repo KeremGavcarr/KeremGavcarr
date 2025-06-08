@@ -68,6 +68,12 @@ https://github.com/user-attachments/assets/0620d236-2138-467d-94e4-041f0f9f97ab
 
 ![sword](https://github.com/user-attachments/assets/3bd22684-4939-4638-ad2d-da5e596b62ac)
 
+- **Organic Mushroom Family Model**
+  
+  A stylized 3D mushroom family model
+
+  ![MushroomFamily](https://github.com/user-attachments/assets/b3226e9b-122f-43f1-a995-19804e7fc2f9)
+
 ---
 
 ## 🔵 Unity
