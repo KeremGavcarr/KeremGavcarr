@@ -26,7 +26,7 @@ Hello, I'm **Kerem Gavcar**, a passionate Game Developer and 3D Artist with a st
 
 https://github.com/user-attachments/assets/c2b08707-2d16-4515-91fb-0ab6d1322fbf
 
-### 🔨 Obstacle Assault – CPP (Work in Progress)
+### 🔨 Obstacle Assault – CPP 
 
 A third-person platformer built entirely in C++ with Unreal Engine, my first native code project.
 
@@ -79,6 +79,12 @@ https://github.com/user-attachments/assets/0620d236-2138-467d-94e4-041f0f9f97ab
   A stylized 3D ceramic crockery set including a teapot, tea cup, and cookies
 
   ![CeramicCrockery](https://github.com/user-attachments/assets/4e199330-4a8c-4709-aaa6-7a5dea72c3bf)
+
+  - **Stylized Pink Piggy Bank**
+
+  A stylized 3D pink piggy bank model
+
+  ![piggybank3](https://github.com/user-attachments/assets/e66a381d-587c-438a-82ad-441b9c5e8738)
 
 ---
 
