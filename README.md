@@ -117,5 +117,5 @@ My passion lies in crafting **worlds that feel alive**. From the tiniest prop to
 
 ## 🌐 Connect with Me
 - **Email**: kerem1512000@gmail.com 
-- **GitHub**: (https://github.com/KeremGavcarr)
-- **LinkedIn**: (https://tr.linkedin.com/in/kerem-gavcar/tr)
+[GitHub](https://github.com/KeremGavcarr) | [LinkedIn](https://tr.linkedin.com/in/kerem-gavcar/tr)
+
